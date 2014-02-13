@@ -1,0 +1,41 @@
+{
+  "name": "ppm-bin",
+  "description": "Converts ppm image to an png image",
+  "keywords": [
+    "ppm",
+    "png",
+    "qmp",
+    "qemu",
+    "converter"
+  ],
+  "version": "1.0.0",
+  "author": {
+    "name": "Manuel Baesler",
+    "email": "baslr.at.github@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baslr/node-ppm-bin"
+  },
+  "bugs": {
+    "url": "https://github.com/baslr/node-ppm-bin/issues"
+  },
+  "devDependencies": {
+    "coffee-script": "1.6.x"
+  },
+  "main": "./index.js",
+  "homepage": "https://github.com/baslr/node-ppm-bin/",
+  "engines": {
+    "node": ">=0.10.x"
+  },
+  "licenses": [
+    {
+      "type": "AGPLv3",
+      "url": "https://www.gnu.org/licenses/agpl-3.0.de.html"
+    }
+  ],
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "pngjs": "~0.4.0"
+  }
+}
