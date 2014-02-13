@@ -1,6 +1,6 @@
 {
   "name": "ppm-bin",
-  "description": "Converts ppm image to an png image",
+  "description": "Converts ppm bin image to an png image",
   "keywords": [
     "ppm",
     "png",
@@ -8,7 +8,7 @@
     "qemu",
     "converter"
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Manuel Baesler",
     "email": "baslr.at.github@gmail.com"
